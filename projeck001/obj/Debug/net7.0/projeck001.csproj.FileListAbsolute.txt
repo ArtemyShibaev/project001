@@ -1,0 +1,15 @@
+/home/artemy/Документы/GB/общая/C#/projeck001/bin/Debug/net7.0/projeck001
+/home/artemy/Документы/GB/общая/C#/projeck001/bin/Debug/net7.0/projeck001.deps.json
+/home/artemy/Документы/GB/общая/C#/projeck001/bin/Debug/net7.0/projeck001.runtimeconfig.json
+/home/artemy/Документы/GB/общая/C#/projeck001/bin/Debug/net7.0/projeck001.dll
+/home/artemy/Документы/GB/общая/C#/projeck001/bin/Debug/net7.0/projeck001.pdb
+/home/artemy/Документы/GB/общая/C#/projeck001/obj/Debug/net7.0/projeck001.csproj.AssemblyReference.cache
+/home/artemy/Документы/GB/общая/C#/projeck001/obj/Debug/net7.0/projeck001.GeneratedMSBuildEditorConfig.editorconfig
+/home/artemy/Документы/GB/общая/C#/projeck001/obj/Debug/net7.0/projeck001.AssemblyInfoInputs.cache
+/home/artemy/Документы/GB/общая/C#/projeck001/obj/Debug/net7.0/projeck001.AssemblyInfo.cs
+/home/artemy/Документы/GB/общая/C#/projeck001/obj/Debug/net7.0/projeck001.csproj.CoreCompileInputs.cache
+/home/artemy/Документы/GB/общая/C#/projeck001/obj/Debug/net7.0/projeck001.dll
+/home/artemy/Документы/GB/общая/C#/projeck001/obj/Debug/net7.0/refint/projeck001.dll
+/home/artemy/Документы/GB/общая/C#/projeck001/obj/Debug/net7.0/projeck001.pdb
+/home/artemy/Документы/GB/общая/C#/projeck001/obj/Debug/net7.0/projeck001.genruntimeconfig.cache
+/home/artemy/Документы/GB/общая/C#/projeck001/obj/Debug/net7.0/ref/projeck001.dll

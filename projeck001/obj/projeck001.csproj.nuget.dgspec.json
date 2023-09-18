@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/artemy/Документы/GB/общая/C#/projeck001/projeck001.csproj": {}
+  },
+  "projects": {
+    "/home/artemy/Документы/GB/общая/C#/projeck001/projeck001.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/artemy/Документы/GB/общая/C#/projeck001/projeck001.csproj",
+        "projectName": "projeck001",
+        "projectPath": "/home/artemy/Документы/GB/общая/C#/projeck001/projeck001.csproj",
+        "packagesPath": "/home/artemy/.nuget/packages/",
+        "outputPath": "/home/artemy/Документы/GB/общая/C#/projeck001/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/artemy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
